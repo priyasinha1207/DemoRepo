@@ -1,6 +1,6 @@
 package Test;
 
-public class MyClass {
+public class SearchPage {
 
 	
 public static void sample() {
